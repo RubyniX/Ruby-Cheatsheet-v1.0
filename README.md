@@ -2222,7 +2222,7 @@ Contribution Guidelines
 
 Author
 ============
-Neilblaze (https://neilblaze.live)
+Neilblaze (https://github.com/neilblaze)
 
 License
 ============
