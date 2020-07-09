@@ -228,6 +228,8 @@ How to update every gem in the Gemfile using Bundler
 bundle update
 ```
 
+For best observance lookout at this video - [Ruby + RoR](https://medium.com/ruby-on-rails-web-application-development/how-to-install-rubyonrails-on-windows-7-8-10-complete-tutorial-2017-fc95720ee059)
+
 Introduction
 ============
 In Ruby everything is an object.
